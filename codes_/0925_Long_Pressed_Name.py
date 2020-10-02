@@ -1,7 +1,3 @@
-# %% https://leetcode.com/problemset/algorithms/?difficulty=Easy&status=Todo
-from leetcode import *  # noqa
-
-
 # %% [925. Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)
 # 問題：nameの各文字を1回以上タイプしてtypedになるかを返せ
 # 解法：2つの添字を用いる
@@ -17,10 +13,3 @@ class Solution:
                 j += 1
             i, j = i + 1, j + 1
         return True
-
-
-# %%
-Solution().isLongPressedName("alex", "aaleex")
-
-
-# %%

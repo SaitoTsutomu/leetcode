@@ -283,6 +283,7 @@
 - [0914 X of a Kind in a Deck of Cards](codes_/0914_X_of_a_Kind_in_a_Deck_of_Cards.py) - ([leetcode.com](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/))
 - [0917 Reverse Only Letters](codes_/0917_Reverse_Only_Letters.py) - ([leetcode.com](https://leetcode.com/problems/reverse-only-letters/))
 - [0922 Sort Array By Parity II](codes_/0922_Sort_Array_By_Parity_II.py) - ([leetcode.com](https://leetcode.com/problems/sort-array-by-parity-ii/))
+- [0925 Long Pressed Name](codes_/0925_Long_Pressed_Name.py) - ([leetcode.com](https://leetcode.com/problems/long-pressed-name/))
 - [0929 Unique Email Addresses](codes_/0929_Unique_Email_Addresses.py) - ([leetcode.com](https://leetcode.com/problems/unique-email-addresses/))
 - [0938 Range Sum of BST](codes_/0938_Range_Sum_of_BST.py) - ([leetcode.com](https://leetcode.com/problems/range-sum-of-bst/))
 - [1011 Capacity To Ship Packages Within D Days](codes_/1011_Capacity_To_Ship_Packages_Within_D_Days.py) - ([leetcode.com](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/))
