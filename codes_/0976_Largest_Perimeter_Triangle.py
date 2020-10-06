@@ -1,7 +1,3 @@
-# %% https://leetcode.com/problemset/algorithms/?difficulty=Easy&status=Todo
-from leetcode import *  # noqa
-
-
 # %% [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)
 # 問題：三角形になりうる最大の3辺の和を返せ
 # 解法：sortする
@@ -17,10 +13,3 @@ class Solution:
 
 def dfs(tn, v):
     return not tn or tn.val == v and dfs(tn.left, v) and dfs(tn.right, v)
-
-
-# %%
-Solution().isLongPressedName("alex", "aaleex")
-
-
-# %%
