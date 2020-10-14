@@ -1,7 +1,3 @@
-# %% https://leetcode.com/problemset/algorithms/?difficulty=Easy&status=Todo
-from leetcode import *  # noqa
-
-
 # %% [985. Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)
 # 問題：queriesを適用するごとに偶数の要素の和のリストを返せ
 # 解法：クエリの更新位置だけ偶数の要素の和を更新
@@ -18,10 +14,3 @@ def calc(A, v, i, es):
     if not A[i] % 2:
         es += A[i]
     return es
-
-
-# %%
-Solution().isLongPressedName("alex", "aaleex")
-
-
-# %%

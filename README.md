@@ -297,6 +297,7 @@
 - [0970 Powerful Integers](codes_/0970_Powerful_Integers.py) - ([leetcode.com](https://leetcode.com/problems/powerful-integers/))
 - [0976 Largest Perimeter Triangle](codes_/0976_Largest_Perimeter_Triangle.py) - ([leetcode.com](https://leetcode.com/problems/largest-perimeter-triangle/))
 - [0977 Squares of a Sorted Array](codes_/0977_Squares_of_a_Sorted_Array.py) - ([leetcode.com](https://leetcode.com/problems/squares-of-a-sorted-array/))
+- [0985 Sum of Even Numbers After Queries](codes_/0985_Sum_of_Even_Numbers_After_Queries.py) - ([leetcode.com](https://leetcode.com/problems/sum-of-even-numbers-after-queries/))
 - [1011 Capacity To Ship Packages Within D Days](codes_/1011_Capacity_To_Ship_Packages_Within_D_Days.py) - ([leetcode.com](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/))
 - [1038 Binary Search Tree to Greater Sum Tree](codes_/1038_Binary_Search_Tree_to_Greater_Sum_Tree.py) - ([leetcode.com](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/))
 - [1108 Defanging an IP Address](codes_/1108_Defanging_an_IP_Address.py) - ([leetcode.com](https://leetcode.com/problems/defanging-an-ip-address/))
