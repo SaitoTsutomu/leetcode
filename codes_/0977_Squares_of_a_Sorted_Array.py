@@ -1,7 +1,3 @@
-# %% https://leetcode.com/problemset/algorithms/?difficulty=Easy&status=Todo
-from leetcode import *  # noqa
-
-
 # %% [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 # 問題：各要素を自乗しソートして返せ
 # 解法：両端から絶対値の大きい方を自乗し解に追加していく
@@ -16,10 +12,3 @@ class Solution:
                 res.append(A[j] ** 2)
                 j -= 1
         return list(reversed(res))
-
-
-# %%
-Solution().isLongPressedName("alex", "aaleex")
-
-
-# %%
