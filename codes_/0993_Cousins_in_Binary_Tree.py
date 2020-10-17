@@ -8,10 +8,8 @@ class Solution:
         return dx == dy and px != py
 
 
-def depth(parent, node, cur, mod):
-    if node:
-        if node.val == mod:
+def depth(parent, tn, cur, val):
+    if tn:
+        if tn.val == val:
             return cur, parent
-        return depth(node, node.left, cur + 1, mod) or depth(
-            node, node.right, cur + 1, mod
-        )
+        return depth(tn, tn.left, cur + 1, val) or depth(tn, tn.right, cur + 1, val)

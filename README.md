@@ -300,6 +300,7 @@
 - [0985 Sum of Even Numbers After Queries](codes_/0985_Sum_of_Even_Numbers_After_Queries.py) - ([leetcode.com](https://leetcode.com/problems/sum-of-even-numbers-after-queries/))
 - [0989 Add to Array-Form of Integer](codes_/0989_Add_to_ArrayForm_of_Integer.py) - ([leetcode.com](https://leetcode.com/problems/add-to-array-form-of-integer/))
 - [0993 Cousins in Binary Tree](codes_/0993_Cousins_in_Binary_Tree.py) - ([leetcode.com](https://leetcode.com/problems/cousins-in-binary-tree/submissions/))
+- [0997 Find the Town Judge](codes_/0997_Find_the_Town_Judge.py) - ([leetcode.com](https://leetcode.com/problems/find-the-town-judge/submissions/))
 - [1011 Capacity To Ship Packages Within D Days](codes_/1011_Capacity_To_Ship_Packages_Within_D_Days.py) - ([leetcode.com](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/))
 - [1038 Binary Search Tree to Greater Sum Tree](codes_/1038_Binary_Search_Tree_to_Greater_Sum_Tree.py) - ([leetcode.com](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/))
 - [1108 Defanging an IP Address](codes_/1108_Defanging_an_IP_Address.py) - ([leetcode.com](https://leetcode.com/problems/defanging-an-ip-address/))
