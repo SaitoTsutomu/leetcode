@@ -1,6 +1,3 @@
-# %% https://leetcode.com/problemset/algorithms/?difficulty=Easy&status=Todo
-from leetcode import *  # noqa
-
 # %% [999. Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/)
 # 問題：ルークが取れるポーンの個数を返せ
 # 解法：np.argwhereでルークの位置
@@ -16,10 +13,3 @@ class Solution:
             for d in [1, -1]
             for a in [board[x, y::d], board.T[y, x::d]]
         )
-
-
-# %%
-Solution().isLongPressedName("alex", "aaleex")
-
-
-# %%
