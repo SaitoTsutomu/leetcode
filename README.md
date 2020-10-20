@@ -305,6 +305,7 @@
 - [1002 Find Common Characters](codes_/1002_Find_Common_Characters.py) - ([leetcode.com](https://leetcode.com/problems/find-common-characters/))
 - [1005 Maximize Sum Of Array After K Negations](codes_/1005_Maximize_Sum_Of_Array_After_K_Negations.py) - ([leetcode.com](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/))
 - [1009 Complement of Base 10 Integer](codes_/1009_Complement_of_Base_10_Integer.py) - ([leetcode.com](https://leetcode.com/problems/complement-of-base-10-integer/submissions/))
+- [1010 Pairs of Songs With Total Durations Divisible by 60](codes_/1010_Pairs_of_Songs_With_Total_Durations_Divisible_by_60.py) - ([leetcode.com](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/))
 - [1011 Capacity To Ship Packages Within D Days](codes_/1011_Capacity_To_Ship_Packages_Within_D_Days.py) - ([leetcode.com](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/))
 - [1038 Binary Search Tree to Greater Sum Tree](codes_/1038_Binary_Search_Tree_to_Greater_Sum_Tree.py) - ([leetcode.com](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/))
 - [1108 Defanging an IP Address](codes_/1108_Defanging_an_IP_Address.py) - ([leetcode.com](https://leetcode.com/problems/defanging-an-ip-address/))
