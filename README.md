@@ -307,6 +307,7 @@
 - [1009 Complement of Base 10 Integer](codes_/1009_Complement_of_Base_10_Integer.py) - ([leetcode.com](https://leetcode.com/problems/complement-of-base-10-integer/submissions/))
 - [1010 Pairs of Songs With Total Durations Divisible by 60](codes_/1010_Pairs_of_Songs_With_Total_Durations_Divisible_by_60.py) - ([leetcode.com](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/))
 - [1011 Capacity To Ship Packages Within D Days](codes_/1011_Capacity_To_Ship_Packages_Within_D_Days.py) - ([leetcode.com](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/))
+- [1013 Partition Array Into Three Parts With Equal Sum](codes_/1013_Partition_Array_Into_Three_Parts_With_Equal_Sum.py) - ([leetcode.com](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/))
 - [1038 Binary Search Tree to Greater Sum Tree](codes_/1038_Binary_Search_Tree_to_Greater_Sum_Tree.py) - ([leetcode.com](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/))
 - [1108 Defanging an IP Address](codes_/1108_Defanging_an_IP_Address.py) - ([leetcode.com](https://leetcode.com/problems/defanging-an-ip-address/))
 - [1221 Split a String in Balanced Strings](codes_/1221_Split_a_String_in_Balanced_Strings.py) - ([leetcode.com](https://leetcode.com/problems/split-a-string-in-balanced-strings/))
