@@ -318,6 +318,8 @@
 - [1037 Valid Boomerang](codes_/1037_Valid_Boomerang.py) - ([leetcode.com](https://leetcode.com/problems/valid-boomerang/))
 - [1038 Binary Search Tree to Greater Sum Tree](codes_/1038_Binary_Search_Tree_to_Greater_Sum_Tree.py) - ([leetcode.com](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/))
 - [1042 Flower Planting With No Adjacent](codes_/1042_Flower_Planting_With_No_Adjacent.py) - ([leetcode.com](https://leetcode.com/problems/flower-planting-with-no-adjacent/))
+- [1046 Last Stone Weight](codes_/1046_Last_Stone_Weight.py) - ([leetcode.com](https://leetcode.com/problems/last-stone-weight/))
+- [1047 Remove All Adjacent Duplicates In String](codes_/1047_Remove_All_Adjacent_Duplicates_In_String.py) - ([leetcode.com](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/))
 - [1108 Defanging an IP Address](codes_/1108_Defanging_an_IP_Address.py) - ([leetcode.com](https://leetcode.com/problems/defanging-an-ip-address/))
 - [1221 Split a String in Balanced Strings](codes_/1221_Split_a_String_in_Balanced_Strings.py) - ([leetcode.com](https://leetcode.com/problems/split-a-string-in-balanced-strings/))
 - [1266 Minimum Time Visiting All Points](codes_/1266_Minimum_Time_Visiting_All_Points.py) - ([leetcode.com](https://leetcode.com/problems/minimum-time-visiting-all-points/))
