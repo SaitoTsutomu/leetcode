@@ -342,6 +342,7 @@
 - [1221 Split a String in Balanced Strings](codes_/1221_Split_a_String_in_Balanced_Strings.py) - ([leetcode.com](https://leetcode.com/problems/split-a-string-in-balanced-strings/))
 - [1232 Check If It Is a Straight Line](codes_/1232_Check_If_It_Is_a_Straight_Line.py) - ([leetcode.com](https://leetcode.com/problems/check-if-it-is-a-straight-line/))
 - [1237 Find Positive Integer Solution for a Given Equation](codes_/1237_Find_Positive_Integer_Solution_for_a_Given_Equation.py) - ([leetcode.com](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/))
+- [1252 Cells with Odd Values in a Matrix](codes_/1252_Cells_with_Odd_Values_in_a_Matrix.py) - ([leetcode.com](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/))
 - [1266 Minimum Time Visiting All Points](codes_/1266_Minimum_Time_Visiting_All_Points.py) - ([leetcode.com](https://leetcode.com/problems/minimum-time-visiting-all-points/))
 - [1282 Group the People Given the Group Size They Belong To](codes_/1282_Group_the_People_Given_the_Group_Size_They_Belong_To.py) - ([leetcode.com](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/))
 - [1290 Convert Binary Number in a Linked List to Integer](codes_/1290_Convert_Binary_Number_in_a_Linked_List_to_Integer.py) - ([leetcode.com](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/))
