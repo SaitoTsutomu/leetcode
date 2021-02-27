@@ -6,3 +6,10 @@ from .etc.list_node import *  # noqa
 from .etc.tree_node import *  # noqa
 
 null = None  # noqa
+
+try:
+    import pkg_resources
+
+    __version__ = pkg_resources.get_distribution(__package__).version
+except pkg_resources.DistributionNotFound:
+    __version__ = "Unknown"
